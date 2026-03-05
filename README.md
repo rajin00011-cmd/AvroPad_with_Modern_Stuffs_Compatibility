@@ -36,7 +36,7 @@ Running `npm install` will also install bower components for you.
 **Run (Development mode):**
 
 ```bash
-$ gulp watch
+$ gulp dev
 ```
 
 Open [http://localhost:8080/](http://localhost:8080/) in your browser.
