@@ -1,4 +1,7 @@
 Note: This project is not related to OmicronLab.
+
+So, the story is, I just wanted to use this website offline. But it is pretty old that it didn't work. I could downgrade some stuffs, but I didn't want to. I rewrote AvroPad a bit.
+
 AvroPad
 =======
 Live: http://avro.im
@@ -69,13 +72,13 @@ Android support is very minimal, because of the bugs in Chrome for Android:
 
 And it's rare to have fixes on older Android releases, so old native Android browser probably will never be supported.
 
-## Contributors
+## Original Contributors
 
 * Sarim Khan
 * Rifat Nabi
 * Mehdi Hasan
 * Tanbin Islam Siyam
 
-## License
+## Original License
 
 AvroPad is licensed under Mozilla Public License 1.1 ("MPL"), an open source/free software license.
