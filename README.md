@@ -82,3 +82,5 @@ And it's rare to have fixes on older Android releases, so old native Android bro
 ## Original License
 
 AvroPad is licensed under Mozilla Public License 1.1 ("MPL"), an open source/free software license.
+
+# It is tar zstd for some reason. If anybody wants to contribute, I will make it normal!
