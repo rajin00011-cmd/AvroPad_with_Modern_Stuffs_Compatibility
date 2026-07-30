@@ -1,4 +1,5 @@
 Note: This project is not related to OmicronLab.
+Original repo: https://github.com/omicronlab/avro-pad/
 
 So, the story is, I just wanted to use this website offline. But it is pretty old that it didn't work. I could downgrade some stuffs, but I didn't want to. I rewrote AvroPad a bit.
 
